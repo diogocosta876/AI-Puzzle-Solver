@@ -12,8 +12,8 @@ The game [Cohesion Free](https://play.google.com/store/apps/details?id=com.NeatW
 ## Algorithms Used
 - BFS
 - DFS
-- ASTAR
-- GREEDY
+- ASTAR + Heuristic
+- GREEDY + Heuristic
 
 ## Setup
 
