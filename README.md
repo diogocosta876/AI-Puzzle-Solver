@@ -6,7 +6,7 @@ The game [Cohesion Free](https://play.google.com/store/apps/details?id=com.NeatW
 
 
 ## Demo
-![]((https://github.com/diogocosta876/AI-Puzzle-Solver/blob/main/analysis/Demo.gif)
+![](https://github.com/diogocosta876/AI-Puzzle-Solver/blob/main/analysis/Demo.gif)
 
 
 ## Algorithms Used
